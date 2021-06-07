@@ -1,16 +1,16 @@
-### Hi there 👋
+<img alt="Moin & Ahoi, ich bin Dario, Full-Stack Entwickler bei Softwerkstatt." src="https://raw.githubusercontent.com/dariodomide/dariodomide/main/about.png">
 
-<!--
-**DarioDomiDE/dariodomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Moin there 👋
+
+- ✅ In love <3 with [✨ Softwerkstatt ✨](https://softwerkstatt.de)
+- ✅ Buddy von [Hashtag Buddy](https://hashtagbuddy.app)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m mostly working with .Net C#
+- 🌱 I’m currently learning Flutter / React Native
+- 👯 I’m looking to collaborate on Backend
+- 🤔 I’m looking for help with running a company
+- 💬 Ask me about whatever you need to ask
+- 📫 How to reach me: moin@softwerkstatt.de
+- ⚡ favorite quote: "Do. Or do not. There is no try" - Yoda, Yedi master
