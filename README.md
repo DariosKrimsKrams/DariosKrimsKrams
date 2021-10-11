@@ -4,6 +4,7 @@
 
 - ✅ In love <3 with [✨ Softwerkstatt ✨](https://softwerkstatt.de)
 - ✅ Buddy von [Hashtag Buddy](https://hashtagbuddy.app)
+- ✅ Former Co-Founder of [Tiny Roar](https://tinyroar.de/)
 
 Here are some ideas to get you started:
 
