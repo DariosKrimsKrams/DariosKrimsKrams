@@ -2,7 +2,7 @@
 
 ### Moin there 👋
 
-- ✅ Programmer @ [✨ Softwerkstatt ✨](https://softwerkstatt.de)
+- ✅ Programmer at [✨ Softwerkstatt ✨](https://softwerkstatt.de)
 - ✅ Buddy of [Hashtag Buddy](https://hashtagbuddy.app)
 - ✅ Former Co-Founder of [Tiny Roar](https://tinyroar.de/)
 
