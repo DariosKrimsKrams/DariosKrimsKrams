@@ -2,16 +2,15 @@
 
 ### Moin there 👋
 
-- ✅ In love <3 with [✨ Softwerkstatt ✨](https://softwerkstatt.de)
-- ✅ Buddy von [Hashtag Buddy](https://hashtagbuddy.app)
+- ✅ Programmer @ [✨ Softwerkstatt ✨](https://softwerkstatt.de)
+- ✅ Buddy of [Hashtag Buddy](https://hashtagbuddy.app)
 - ✅ Former Co-Founder of [Tiny Roar](https://tinyroar.de/)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m mostly working with .Net C#
-- 🌱 I’m currently learning Flutter / React Native
+- 🔭 I’m mostly working with .Net using C#
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Backend
-- 🤔 I’m looking for help with running a company
+- 🤔 I’m looking for help running a software-development company
 - 💬 Ask me about whatever you need to ask
-- 📫 How to reach me: moin@softwerkstatt.de
 - ⚡ favorite quote: "Do. Or do not. There is no try" - Yoda, Yedi master
