@@ -6,11 +6,10 @@
 - ✅ Buddy of [Hashtag Buddy](https://hashtagbuddy.app)
 - ✅ Former Co-Founder of [Tiny Roar](https://tinyroar.de/)
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m mostly working with .Net using C#
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Backend
-- 🤔 I’m looking for help running a software-development company
+- 🌱 Loving Flutter for Apps
+- 👯 I’m looking to collaborate as part of my team at Softwerkstatt
 - 💬 Ask me about whatever you need to ask
-- ⚡ favorite quote: "Do. Or do not. There is no try" - Yoda, Yedi master
+- ⚡ "Do. Or do not. There is no try" - Yoda
