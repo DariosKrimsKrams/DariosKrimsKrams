@@ -1,4 +1,4 @@
-<img alt="Moin & Ahoi, ich bin Dario, Full-Stack Entwickler bei Softwerkstatt." src="https://raw.githubusercontent.com/dariodomide/dariodomide/main/about.png">
+<img alt="Moin & Ahoi, ich bin Dario, Full-Stack Entwickler bei Softwerkstatt." src="https://github.com/DariosKrimsKrams/DariosKrimsKrams/blob/main/about.png?raw=true">
 
 ### Moin there 👋
 
