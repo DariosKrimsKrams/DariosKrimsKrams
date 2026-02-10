@@ -2,14 +2,13 @@
 
 ### Moin there 👋
 
-- ✅ Programmer at [✨ Softwerkstatt ✨](https://softwerkstatt.de)
-- ✅ Buddy of [Hashtag Buddy](https://hashtagbuddy.app)
+- ✅ Founder of [✨ Softwerkstatt ✨](https://softwerkstatt.de)
 - ✅ Former Co-Founder of [Tiny Roar](https://tinyroar.de/)
 
 About me:
 
-- 🔭 I’m mostly working with .Net using C#
-- 🌱 Loving Flutter for Apps
-- 👯 I’m looking to collaborate as part of my team at Softwerkstatt
+- 🔭 I’m mostly working with .NET 10+ using C#
+- 🌱 <3 Flutter for App-development
+- 👯 since 2025+ working for TESLA @ Gigafactory Berlin-Brandenburg
 - 💬 Ask me about whatever you need to ask
 - ⚡ "Do. Or do not. There is no try" - Yoda
